@@ -32,7 +32,7 @@ run through prompts as required
 After cloning the repo and installing all required dependencies, navigate to the command line and type npm start. Follow prompts to navigate to different sections where you can add, remove, change information. 
     
 ### Screenshots
-![Here is the screenshot image of the application.](images\snapshot.PNG)
+![Here is the screenshot image of the application.](https://github.com/WillLuciano/Employee-datastore/blob/main/images/snapshot.PNG?raw=true)
 A screenshot image of the application.
 
 ## Built With
