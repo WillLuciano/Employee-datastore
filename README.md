@@ -7,7 +7,7 @@ View the deployed page at [Employee Tracker](https://github.com/Willluciano/Empl
 ## Contents
 * [Installation](#installation)
 * [Usage](#usage)
-   * [Screenshots](#screenshots)
+* [Screenshots](#screenshots)
 * [Built With](#built-with)
 * [Contributing](#contributing)
 * [Tests](#tests)
